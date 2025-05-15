@@ -58,7 +58,7 @@ entry_site.grid(column=1, row=1, columnspan=2)
 entry_site.focus()
 entry_name=Entry(width=52)
 entry_name.grid(column=1, row=2, columnspan=2)
-entry_name.insert(0, "altynbekkarasaevnew@gmail.com")
+entry_name.insert(0, "your@gmail.com")
 entry_password=Entry(width=33)
 entry_password.grid(column=1, row=3)
 
