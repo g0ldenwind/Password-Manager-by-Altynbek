@@ -1,9 +1,10 @@
 pip install pyperclip
-edit email account in first row
-run the code
-insert website name by your own
-insert password by your own or click 'Generate Password' to generate random secure password
-randomly 'generated password' will be 'automatically copied', so you can immediately paste
-you can not add info with having empty field
-program will ask whether yous ure to input info
-all added passwords will be in 'data.txt'
+Edit email account in first row. 
+Run the code.
+Insert website name by your own.
+Insert password by your own or click 'Generate Password' to generate random secure password.
+Randomly 'generated password' will be 'automatically copied', so you can immediately paste.
+You can not add info with having empty field.
+Program will ask whether yous ure to input info.
+All added passwords will be in 'data.txt'.
+You can directly edit in 'data.txt'
